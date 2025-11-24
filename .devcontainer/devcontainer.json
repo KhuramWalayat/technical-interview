@@ -19,7 +19,8 @@
 			"extensions": [
 				"ms-python.python",
 				"charliermarsh.ruff",
-				"ms-vsliveshare.vsliveshare"
+				"ms-vsliveshare.vsliveshare",
+				"ms-toolsai.jupyter"
 			]
 		}
 	},
