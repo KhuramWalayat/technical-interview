@@ -12,7 +12,7 @@ Free GitHub accounts should have a sufficient number of Codespaces hours to comp
 
 If you wish to install any additional python packages, please add them using `uv add <package-name>` so that they are included in the `pyproject.toml` file.
 
-If you prefer to set up the environment manually, you will need to have a recent python version installed. If you use any dependencies not included in the pyproject.toml, please make sure to note them in your submission, or add them to the pyproject.toml file.
+If you prefer to set up the environment manually, you will need to have a recent python version installed. If you use any dependencies not included in the `pyproject.toml`, please make sure to note them in your submission, or add them to the `pyproject.toml` file.
 
 ### Video of setting up a Codespace
 
