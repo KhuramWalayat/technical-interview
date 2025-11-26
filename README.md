@@ -16,6 +16,10 @@ If you prefer to set up the environment manually, you will need to have a recent
 
 ### Video of setting up a Codespace
 
+https://github.com/user-attachments/assets/0ec92ce6-0dd8-4281-82a2-dfb010036e1f
+
+
+
 ## Challenges
 
 The take-home assignment is located in the `challenges` folder. Read the README.md file in that folder for more information about the take-home assignment.
