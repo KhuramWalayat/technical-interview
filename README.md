@@ -20,9 +20,9 @@ https://github.com/user-attachments/assets/0ec92ce6-0dd8-4281-82a2-dfb010036e1f
 
 
 
-## Challenges
+## Challenge
 
-The take-home assignment is located in the `challenges` folder. Read the README.md file in that folder for more information about the take-home assignment.
+The take-home assignment is located in the `challenge` folder. Read the [assignment.md](challenge/assignment_instructions.md) file in that folder for more information about the take-home assignment.
 
 ## AI Usage
 
