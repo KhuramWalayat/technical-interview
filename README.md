@@ -4,7 +4,7 @@ This repository contains the base code for technical interviews at Mirico.
 
 ## Installing
 
-The reccomended way to use this repository is through GitHub Codespaces or Dev Containers. To get started, simply open this repository in GitHub Codespaces or clone it locally and open it in VS Code with the Dev Containers extension installed.
+The recommended way to use this repository is through GitHub Codespaces or Dev Containers. To get started, simply open this repository in GitHub Codespaces or clone it locally and open it in VS Code with the Dev Containers extension installed.
 
 There is no requirement to use Codespaces or Dev Containers, but they provide a convenient way to set up a consistent development environment.
 
@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/0ec92ce6-0dd8-4281-82a2-dfb010036e1f
 
 ## Challenge
 
-The take-home assignment is located in the `challenge` folder. Read the [assignment.md](challenge/assignment_instructions.md) file in that folder for more information about the take-home assignment.
+The take-home assignment is located in the `challenge` folder. Read the [assignment_instructions.md](challenge/assignment_instructions.md) file in that folder for more information about the take-home assignment.
 
 ## AI Usage
 
